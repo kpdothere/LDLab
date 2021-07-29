@@ -1,1 +1,1 @@
-# Solutions for Sem 3 Logic Design Lab.
+<strong> Solutions for Sem 3 Logic Design Lab. </strong>
